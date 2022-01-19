@@ -1,0 +1,11 @@
+.styleTitle {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3rem;
+    color:coral;
+}
+
+.styleList {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    color:cadetblue;
+}
